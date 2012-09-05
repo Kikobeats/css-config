@@ -39,6 +39,7 @@ Have the game properties in multiples files:
 - gamma.cfg: I bind the keys '+' and '-' of the numpad for increment and decrement the bright of the monitor.
 - volume.cfg: binding of AvPag/RePag for increment and decrement the volume
 - tick100.cfg: server tickrate config.
+- launch options: The options that I use after launch the game (console, dxlevel, no-video,...)
 
 Also I added 2 server config for you need load in your server for play a pracc (esl5on5eas and esl5on5eps)
 
