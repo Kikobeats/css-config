@@ -40,12 +40,8 @@ Have the game properties in multiples files:
 - volume.cfg: binding of AvPag/RePag for increment and decrement the volume
 - tick100.cfg: server tickrate config.
 
-Also I added 2 server config for you need load in your server for play a pracc
-	```
-	- esl5on5eas
-	```
-	- esl5on5eps
-	```
+Also I added 2 server config for you need load in your server for play a pracc (esl5on5eas and esl5on5eps)
+
 #### GUI FOLDER
 
 I used the ROCCAT GUI v3 in my game. This GUI is blue and add more menus with more options.
