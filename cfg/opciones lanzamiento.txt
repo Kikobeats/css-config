@@ -1,0 +1,1 @@
+-w 1280 -h 1024 -noforcemparms -noforcemaccel -noforcemspd -dev -dxlevel 95 -threads 4 -console -novid
