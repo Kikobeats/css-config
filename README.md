@@ -14,7 +14,7 @@ Have the game properties in multiples files:
 - personal.cfg: Have my personal binds and settings about the game.
 	
 	My custom bind:
-
+	```
 	Bind "F1" "buy mp5navy ; buy vest ; buy hegrenade ; buy flashbang"
 	Bind "F2" "buy m4a1 ; buy ak47 ; buy vest ; buy hegrenade ; buy flashbang"
 	Bind "F3" "buy scout ; buy vest ; buy hegrenade ; buy flashbang ; buy deagle"
@@ -28,7 +28,7 @@ Have the game properties in multiples files:
 	bind "KP_MULTIPLY" "retry" (KP_MULTIPLY IS *)
 	bind "MWHEELDOWN" "+jump"
 	bind "MWHEELUP" "+jump"
-
+	```
 	I play in a 1280x1024 resolution whit all video settings in High/VeryHigh and @AAx4 @AFx8
 
 	the autoexec dont load the fps config. If you need fps add in the autoexec this line:
@@ -41,9 +41,10 @@ Have the game properties in multiples files:
 - tick100.cfg: server tickrate config.
 
 Also I added 2 server config for you need load in your server for play a pracc
+	```
 	- esl5on5eas
 	- esl5on5eps
-
+	```
 #### GUI FOLDER
 
 I used the ROCCAT GUI v3 in my game. This GUI is blue and add more menus with more options.
