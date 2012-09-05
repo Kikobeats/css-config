@@ -43,6 +43,7 @@ Have the game properties in multiples files:
 Also I added 2 server config for you need load in your server for play a pracc
 	```
 	- esl5on5eas
+	
 	- esl5on5eps
 	```
 #### GUI FOLDER
