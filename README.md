@@ -4,7 +4,7 @@
 
 Yes, this is true. I decided upload my config in the game cs:source for everybody can use it.
 
-My config hav 3 parts:
+My config have 3 parts:
 
 #### CFG FOLDER
 
@@ -12,7 +12,7 @@ Have the game properties in multiples files:
 
 - autoexec.cfg: this file load immediately you run the game. He loads the others files.
 - personal.cfg: Have my personal binds and settings about the game.
-	
+
 	My custom bind:
 	```
 	Bind "F1" "buy mp5navy ; buy vest ; buy hegrenade ; buy flashbang"
